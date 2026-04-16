@@ -20,10 +20,5 @@
       "src": "/(.*)",
       "dest": "/apps/web/$1"
     }
-  ],
-  "functions": {
-    "api/index.ts": {
-      "maxDuration": 30
-    }
-  }
+  ]
 }
