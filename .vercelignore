@@ -1,0 +1,10 @@
+node_modules
+apps/web/.next
+apps/api/dist
+coverage
+*.log
+.env
+.env.local
+.env.development.local
+.env.production.local
+.vercel
